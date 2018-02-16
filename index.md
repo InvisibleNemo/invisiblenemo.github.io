@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# Learn Machine Learning the easy way
+## There are no stupid questions
 
 You can use the [editor on GitHub](https://github.com/InvisibleNemo/invisiblenemo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
