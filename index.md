@@ -1,38 +1,16 @@
-# Learn Machine Learning the easy way
-## There are no stupid questions
+# Beginner's Projects on Machine Learning and Data Science
+## This website hosts various projects on machine learning which with small fully functional codes. 
 
 You can use the [editor on GitHub](https://github.com/InvisibleNemo/invisiblenemo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Requirements to run projects codes
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InvisibleNemo/invisiblenemo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. Jupyter Notebook - I would recommend using Anaconda with Python3. https://www.anaconda.com/download/
+2. Create project folders.
+3. You should not need any extra packages to run these codes.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you need any help understanding the codes, or execution problems, or if you find any bugs, feel free to contact me at invsblnemo[at]gmail[dot]com
