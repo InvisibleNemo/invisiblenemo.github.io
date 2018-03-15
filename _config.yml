@@ -26,6 +26,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: InvisibleNemo
 github_username:  invisiblenemo
 
+remote_theme: "mmistakes/minimal-mistakes"
+
 author:
   name   : "Debanjan Paul"
   avatar : "/assets/images/DP.jpg"
@@ -49,7 +51,7 @@ social:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll 
+#theme: minimal-mistakes-jekyll 
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
