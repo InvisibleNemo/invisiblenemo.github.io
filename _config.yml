@@ -49,7 +49,7 @@ social:
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll 
+theme: jekyll-theme-minimal 
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
