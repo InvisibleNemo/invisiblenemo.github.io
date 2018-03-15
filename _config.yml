@@ -51,11 +51,7 @@ social:
 
 # Build settings
 markdown: kramdown
-<<<<<<< HEAD
 #theme: minimal-mistakes-jekyll 
-=======
-theme: jekyll-theme-minimal 
->>>>>>> e242c8ebe37e3ab6ac363b3dc4fd9ea8d918d4a1
 minimal_mistakes_skin: "air"
 plugins:
   - jekyll-feed
